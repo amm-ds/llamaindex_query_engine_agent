@@ -1,0 +1,320 @@
+{
+    "agent_responses": [
+        {
+            "response": "The model numbers of the NeoGadget X1 are 'NG-X1-2024-512' and 'NG-X1-2024-256'.",
+            "sources": [
+                {
+                    "content": "The model numbers of the NeoGadget X1 are 'NG-X1-2024-512' and 'NG-X1-2024-256'.",
+                    "tool_name": "product_info_tool",
+                    "raw_input": {
+                        "input": "model numbers of the NeoGadget X1"
+                    },
+                    "raw_output": "The model numbers of the NeoGadget X1 are 'NG-X1-2024-512' and 'NG-X1-2024-256'.",
+                    "is_error": false,
+                    "source_nodes": []
+                }
+            ]
+        },
+        {
+            "response": "To activate the NeoVoice Assistant, say \"Hey Neo\" followed by your command.",
+            "sources": [
+                {
+                    "content": "To activate the NeoVoice Assistant, say \"Hey Neo\" followed by your command.",
+                    "tool_name": "vector_tool",
+                    "raw_input": {
+                        "input": "activate NeoVoice assistant"
+                    },
+                    "raw_output": "To activate the NeoVoice Assistant, say \"Hey Neo\" followed by your command.",
+                    "is_error": false,
+                    "source_nodes": [
+                        {
+                            "id": "d52c9ae0-e56f-4f3a-83a7-b589a0702b6e",
+                            "text": "Troubleshooting\n### 4.1 Device Won't Turn On\n1. Ensure the battery is charged.\n2. Try a force restart by holding the power and volume down buttons for 10 seconds.\n\n### 4.2 NeoVoice Not Responding\n1. Check your internet connection.\n2. Ensure the microphone is not obstructed.\n3. Update to the latest firmware version.\n\n## 5."
+                        },
+                        {
+                            "id": "e53e85c7-bea1-40ec-a083-66af06971171",
+                            "text": "4. Allow the device to download and install the latest updates.\n\n## 3. Features\n### 3.1 NeoVoice Assistant\nActivate NeoVoice by saying \"Hey Neo\" followed by your command.\n\n### 3.2 NeoProjekt\nProject your screen onto any flat surface by double-tapping the top of the device.\n\n### 3.3 NeoCharge\nPlace your NeoGadget X1 on any Qi-compatible wireless charging pad for hassle-free charging.\n\n## 4."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "response": "The return policy for the NeoGadget X1 is a 30-day money-back guarantee.",
+            "sources": [
+                {
+                    "content": "The return policy for the NeoGadget X1 is a 30-day money-back guarantee.",
+                    "tool_name": "product_info_tool",
+                    "raw_input": {
+                        "input": "return policy for the NeoGadget X1"
+                    },
+                    "raw_output": "The return policy for the NeoGadget X1 is a 30-day money-back guarantee.",
+                    "is_error": false,
+                    "source_nodes": []
+                }
+            ]
+        },
+        {
+            "response": "The NeoProjekt feature allows users to project their screen onto any flat surface by double-tapping the top of the device. It is designed to work on any flat surface.",
+            "sources": [
+                {
+                    "content": "The NeoProjekt feature allows users to project their screen onto any flat surface by double-tapping the top of the device.",
+                    "tool_name": "vector_tool",
+                    "raw_input": {
+                        "input": "NeoProjekt feature surface compatibility"
+                    },
+                    "raw_output": "The NeoProjekt feature allows users to project their screen onto any flat surface by double-tapping the top of the device.",
+                    "is_error": false,
+                    "source_nodes": [
+                        {
+                            "id": "e53e85c7-bea1-40ec-a083-66af06971171",
+                            "text": "4. Allow the device to download and install the latest updates.\n\n## 3. Features\n### 3.1 NeoVoice Assistant\nActivate NeoVoice by saying \"Hey Neo\" followed by your command.\n\n### 3.2 NeoProjekt\nProject your screen onto any flat surface by double-tapping the top of the device.\n\n### 3.3 NeoCharge\nPlace your NeoGadget X1 on any Qi-compatible wireless charging pad for hassle-free charging.\n\n## 4."
+                        },
+                        {
+                            "id": "0532db90-b2a7-414d-b868-44e44099f7b0",
+                            "text": "Technical Specifications\n- Display: 6.5\" NeoRetina OLED\n- Battery: 5000mAh with NeoCharge technology\n- Processor: NeoCore X2 Chip\n- Storage: 256GB / 512GB options\n- RAM: 12GB LPDDR5\n- Camera: Quad 108MP NeoLens system"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "response": "If your NeoGadget X1 won't turn on, ensure the battery is charged and try a force restart by holding the power and volume down buttons for 10 seconds.",
+            "sources": [
+                {
+                    "content": "Ensure the battery is charged and try a force restart by holding the power and volume down buttons for 10 seconds.",
+                    "tool_name": "vector_tool",
+                    "raw_input": {
+                        "input": "NeoGadget X1 won't turn on"
+                    },
+                    "raw_output": "Ensure the battery is charged and try a force restart by holding the power and volume down buttons for 10 seconds.",
+                    "is_error": false,
+                    "source_nodes": [
+                        {
+                            "id": "7ad99ac5-18e6-4dc3-b248-1bd1edd1c9aa",
+                            "text": "Product Name: NeoGadget X1\nModel Number: NG-X1-2024\nFirmware Version: 3.2.1\nRelease Date: March 15, 2024\n\n## 2. Getting Started\nTo set up your NeoGadget X1:\n1. Press and hold the power button for 3 seconds.\n2. Follow the on-screen instructions to connect to Wi-Fi.\n3. Log in with your NeoAccount or create a new one."
+                        },
+                        {
+                            "id": "d52c9ae0-e56f-4f3a-83a7-b589a0702b6e",
+                            "text": "Troubleshooting\n### 4.1 Device Won't Turn On\n1. Ensure the battery is charged.\n2. Try a force restart by holding the power and volume down buttons for 10 seconds.\n\n### 4.2 NeoVoice Not Responding\n1. Check your internet connection.\n2. Ensure the microphone is not obstructed.\n3. Update to the latest firmware version.\n\n## 5."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "response": "The price of the 512 GB storage version of the NeoGadget X1 is $1099.99.",
+            "sources": [
+                {
+                    "content": "The price of the 512 GB storage version of the NeoGadget X1 is $1099.99.",
+                    "tool_name": "product_info_tool",
+                    "raw_input": {
+                        "input": "price of the 512 GB storage version of the NeoGadget X1"
+                    },
+                    "raw_output": "The price of the 512 GB storage version of the NeoGadget X1 is $1099.99.",
+                    "is_error": false,
+                    "source_nodes": []
+                }
+            ]
+        },
+        {
+            "response": "The last customer interaction time was on July 16, 2024, at 14:30:00.",
+            "sources": [
+                {
+                    "content": "The last customer interaction time was on July 16, 2024, at 14:30:00.",
+                    "tool_name": "customer_interactions_tool",
+                    "raw_input": {
+                        "input": "last customer interaction time"
+                    },
+                    "raw_output": "The last customer interaction time was on July 16, 2024, at 14:30:00.",
+                    "is_error": false,
+                    "source_nodes": []
+                }
+            ]
+        },
+        {
+            "response": "The NeoGadget X1 is compatible with older NeoCharge wireless pads.",
+            "sources": [
+                {
+                    "content": "The NeoGadget X1 is compatible with older NeoCharge wireless pads.",
+                    "tool_name": "vector_tool",
+                    "raw_input": {
+                        "input": "NeoGadget X1 compatibility with older NeoCharge wireless pads"
+                    },
+                    "raw_output": "The NeoGadget X1 is compatible with older NeoCharge wireless pads.",
+                    "is_error": false,
+                    "source_nodes": [
+                        {
+                            "id": "e53e85c7-bea1-40ec-a083-66af06971171",
+                            "text": "4. Allow the device to download and install the latest updates.\n\n## 3. Features\n### 3.1 NeoVoice Assistant\nActivate NeoVoice by saying \"Hey Neo\" followed by your command.\n\n### 3.2 NeoProjekt\nProject your screen onto any flat surface by double-tapping the top of the device.\n\n### 3.3 NeoCharge\nPlace your NeoGadget X1 on any Qi-compatible wireless charging pad for hassle-free charging.\n\n## 4."
+                        },
+                        {
+                            "id": "0532db90-b2a7-414d-b868-44e44099f7b0",
+                            "text": "Technical Specifications\n- Display: 6.5\" NeoRetina OLED\n- Battery: 5000mAh with NeoCharge technology\n- Processor: NeoCore X2 Chip\n- Storage: 256GB / 512GB options\n- RAM: 12GB LPDDR5\n- Camera: Quad 108MP NeoLens system"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "response": "The available color options for the NeoGadget X1 are Cosmic Black, Stellar Silver, and Aurora Blue.",
+            "sources": [
+                {
+                    "content": "The available color options for the NeoGadget X1 are Cosmic Black, Stellar Silver, and Aurora Blue.",
+                    "tool_name": "product_info_tool",
+                    "raw_input": {
+                        "input": "available color options for the NeoGadget X1"
+                    },
+                    "raw_output": "The available color options for the NeoGadget X1 are Cosmic Black, Stellar Silver, and Aurora Blue.",
+                    "is_error": false,
+                    "source_nodes": []
+                }
+            ]
+        },
+        {
+            "response": "The battery capacity of the NeoGadget X1 is 5000mAh.",
+            "sources": [
+                {
+                    "content": "5000mAh",
+                    "tool_name": "vector_tool",
+                    "raw_input": {
+                        "input": "battery capacity of the NeoGadget X1"
+                    },
+                    "raw_output": "5000mAh",
+                    "is_error": false,
+                    "source_nodes": [
+                        {
+                            "id": "0532db90-b2a7-414d-b868-44e44099f7b0",
+                            "text": "Technical Specifications\n- Display: 6.5\" NeoRetina OLED\n- Battery: 5000mAh with NeoCharge technology\n- Processor: NeoCore X2 Chip\n- Storage: 256GB / 512GB options\n- RAM: 12GB LPDDR5\n- Camera: Quad 108MP NeoLens system"
+                        },
+                        {
+                            "id": "e33cf029-1417-4e88-acee-cb34c58a6cb0",
+                            "text": "# NeoGadget X1 User Manual\n\n## Table of Contents\n1. Introduction\n2. Getting Started\n3. Features\n4. Troubleshooting\n5. Technical Specifications\n\n## 1. Introduction\nWelcome to the future of personal technology with your new NeoGadget X1! This cutting-edge device combines the functionality of a smartphone, tablet, and personal assistant in one sleek package."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "response": "The NeoGadget X1 features a Quad 108MP NeoLens camera system.",
+            "sources": [
+                {
+                    "content": "Quad 108MP NeoLens system",
+                    "tool_name": "vector_tool",
+                    "raw_input": {
+                        "input": "NeoGadget X1 camera specifications"
+                    },
+                    "raw_output": "Quad 108MP NeoLens system",
+                    "is_error": false,
+                    "source_nodes": [
+                        {
+                            "id": "0532db90-b2a7-414d-b868-44e44099f7b0",
+                            "text": "Technical Specifications\n- Display: 6.5\" NeoRetina OLED\n- Battery: 5000mAh with NeoCharge technology\n- Processor: NeoCore X2 Chip\n- Storage: 256GB / 512GB options\n- RAM: 12GB LPDDR5\n- Camera: Quad 108MP NeoLens system"
+                        },
+                        {
+                            "id": "e33cf029-1417-4e88-acee-cb34c58a6cb0",
+                            "text": "# NeoGadget X1 User Manual\n\n## Table of Contents\n1. Introduction\n2. Getting Started\n3. Features\n4. Troubleshooting\n5. Technical Specifications\n\n## 1. Introduction\nWelcome to the future of personal technology with your new NeoGadget X1! This cutting-edge device combines the functionality of a smartphone, tablet, and personal assistant in one sleek package."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "response": "The warranty period for the NeoGadget X1 is 24 months. For support inquiries, you can contact support@neogadget.com.",
+            "sources": [
+                {
+                    "content": "The warranty period for the NeoGadget X1 is 24 months.",
+                    "tool_name": "product_info_tool",
+                    "raw_input": {
+                        "input": "warranty period for the NeoGadget X1"
+                    },
+                    "raw_output": "The warranty period for the NeoGadget X1 is 24 months.",
+                    "is_error": false,
+                    "source_nodes": []
+                },
+                {
+                    "content": "The support email for the NeoGadget X1 is support@neogadget.com.",
+                    "tool_name": "product_info_tool",
+                    "raw_input": {
+                        "input": "support email for the NeoGadget X1"
+                    },
+                    "raw_output": "The support email for the NeoGadget X1 is support@neogadget.com.",
+                    "is_error": false,
+                    "source_nodes": []
+                }
+            ]
+        },
+        {
+            "response": "The processor used in the NeoGadget X1 is the NeoCore X2 Chip.",
+            "sources": [
+                {
+                    "content": "The processor used in the NeoGadget X1 is the NeoCore X2 Chip.",
+                    "tool_name": "vector_tool",
+                    "raw_input": {
+                        "input": "processor used in the NeoGadget X1"
+                    },
+                    "raw_output": "The processor used in the NeoGadget X1 is the NeoCore X2 Chip.",
+                    "is_error": false,
+                    "source_nodes": [
+                        {
+                            "id": "0532db90-b2a7-414d-b868-44e44099f7b0",
+                            "text": "Technical Specifications\n- Display: 6.5\" NeoRetina OLED\n- Battery: 5000mAh with NeoCharge technology\n- Processor: NeoCore X2 Chip\n- Storage: 256GB / 512GB options\n- RAM: 12GB LPDDR5\n- Camera: Quad 108MP NeoLens system"
+                        },
+                        {
+                            "id": "e33cf029-1417-4e88-acee-cb34c58a6cb0",
+                            "text": "# NeoGadget X1 User Manual\n\n## Table of Contents\n1. Introduction\n2. Getting Started\n3. Features\n4. Troubleshooting\n5. Technical Specifications\n\n## 1. Introduction\nWelcome to the future of personal technology with your new NeoGadget X1! This cutting-edge device combines the functionality of a smartphone, tablet, and personal assistant in one sleek package."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "response": "If NeoVoice is not responding, you should check your internet connection, ensure the microphone is not obstructed, and update to the latest firmware version.",
+            "sources": [
+                {
+                    "content": "Check your internet connection. Ensure the microphone is not obstructed. Update to the latest firmware version.",
+                    "tool_name": "vector_tool",
+                    "raw_input": {
+                        "input": "NeoVoice not responding"
+                    },
+                    "raw_output": "Check your internet connection. Ensure the microphone is not obstructed. Update to the latest firmware version.",
+                    "is_error": false,
+                    "source_nodes": [
+                        {
+                            "id": "d52c9ae0-e56f-4f3a-83a7-b589a0702b6e",
+                            "text": "Troubleshooting\n### 4.1 Device Won't Turn On\n1. Ensure the battery is charged.\n2. Try a force restart by holding the power and volume down buttons for 10 seconds.\n\n### 4.2 NeoVoice Not Responding\n1. Check your internet connection.\n2. Ensure the microphone is not obstructed.\n3. Update to the latest firmware version.\n\n## 5."
+                        },
+                        {
+                            "id": "e53e85c7-bea1-40ec-a083-66af06971171",
+                            "text": "4. Allow the device to download and install the latest updates.\n\n## 3. Features\n### 3.1 NeoVoice Assistant\nActivate NeoVoice by saying \"Hey Neo\" followed by your command.\n\n### 3.2 NeoProjekt\nProject your screen onto any flat surface by double-tapping the top of the device.\n\n### 3.3 NeoCharge\nPlace your NeoGadget X1 on any Qi-compatible wireless charging pad for hassle-free charging.\n\n## 4."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "response": "The microphone on the NeoGadget X1 is located within the device itself.",
+            "sources": [
+                {
+                    "content": "The microphone on the NeoGadget X1 is located within the device itself.",
+                    "tool_name": "vector_tool",
+                    "raw_input": {
+                        "input": "microphone location on the NeoGadget X1"
+                    },
+                    "raw_output": "The microphone on the NeoGadget X1 is located within the device itself.",
+                    "is_error": false,
+                    "source_nodes": [
+                        {
+                            "id": "d52c9ae0-e56f-4f3a-83a7-b589a0702b6e",
+                            "text": "Troubleshooting\n### 4.1 Device Won't Turn On\n1. Ensure the battery is charged.\n2. Try a force restart by holding the power and volume down buttons for 10 seconds.\n\n### 4.2 NeoVoice Not Responding\n1. Check your internet connection.\n2. Ensure the microphone is not obstructed.\n3. Update to the latest firmware version.\n\n## 5."
+                        },
+                        {
+                            "id": "e53e85c7-bea1-40ec-a083-66af06971171",
+                            "text": "4. Allow the device to download and install the latest updates.\n\n## 3. Features\n### 3.1 NeoVoice Assistant\nActivate NeoVoice by saying \"Hey Neo\" followed by your command.\n\n### 3.2 NeoProjekt\nProject your screen onto any flat surface by double-tapping the top of the device.\n\n### 3.3 NeoCharge\nPlace your NeoGadget X1 on any Qi-compatible wireless charging pad for hassle-free charging.\n\n## 4."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

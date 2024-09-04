@@ -1,0 +1,137 @@
+[
+    {
+        "question": "What are the model numbers of the NeoGadget X1?",
+        "ground_truth": "The model number of the NeoGadget X1 is NG-X1-2024-256 and NG-X1-2024-512",
+        "answer": "The model numbers of the NeoGadget X1 are 'NG-X1-2024-512' and 'NG-X1-2024-256'.",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9999999999999992
+    },
+    {
+        "question": "How do you activate the NeoVoice assistant?",
+        "ground_truth": "To activate NeoVoice, say 'Hey Neo' followed by your command.",
+        "answer": "To activate the NeoVoice Assistant, say \"Hey Neo\" followed by your command.",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9982054626851964
+    },
+    {
+        "question": "What is the return policy for the NeoGadget X1?",
+        "ground_truth": "The NeoGadget X1 has a 30-day money-back guarantee return policy.",
+        "answer": "The return policy for the NeoGadget X1 is a 30-day money-back guarantee.",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9999999999999994
+    },
+    {
+        "question": "Can I use the NeoProjekt feature on any surface?",
+        "ground_truth": "Yes, you can project your screen onto any flat surface by double-tapping the top of the device.",
+        "answer": "The NeoProjekt feature allows users to project their screen onto any flat surface by double-tapping the top of the device. It is designed to work on any flat surface.",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.8894268431144238
+    },
+    {
+        "question": "What should I do if my NeoGadget X1 won't turn on?",
+        "ground_truth": "If the NeoGadget X1 won't turn on, ensure the battery is charged and try a force restart by holding the power and volume down buttons for 10 seconds.",
+        "answer": "If your NeoGadget X1 won't turn on, ensure the battery is charged and try a force restart by holding the power and volume down buttons for 10 seconds.",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 1.0
+    },
+    {
+        "question": "What is the total price for the 512 GB storage version of the NeoGadget X1?",
+        "ground_truth": "The price for the 512 GB version of the NeoGadget X1 is $1099.99.",
+        "answer": "The price of the 512 GB storage version of the NeoGadget X1 is $1099.99.",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9868114191876657
+    },
+    {
+        "question": "What time was the last customer interaction in the conversation history?",
+        "ground_truth": "The last customer interaction in the conversation history was at 14:30:00 on July 16, 2024.",
+        "answer": "The last customer interaction time was on July 16, 2024, at 14:30:00.",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.951713319165559
+    },
+    {
+        "question": "Is the NeoGadget X1 compatible with older NeoCharge wireless pads?",
+        "ground_truth": "Yes, the NeoGadget X1 is compatible with any Qi-compatible wireless charging pad, including older NeoCharge models.",
+        "answer": "The NeoGadget X1 is compatible with older NeoCharge wireless pads.",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 1.0
+    },
+    {
+        "question": "What are the available color options for the NeoGadget X1?",
+        "ground_truth": "The NeoGadget X1 is available in Cosmic Black, Stellar Silver, and Aurora Blue.",
+        "answer": "The available color options for the NeoGadget X1 are Cosmic Black, Stellar Silver, and Aurora Blue.",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9999999999999996
+    },
+    {
+        "question": "What's the battery capacity of the NeoGadget X1?",
+        "ground_truth": "The NeoGadget X1 has a 5000mAh battery capacity.",
+        "answer": "The battery capacity of the NeoGadget X1 is 5000mAh.",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 0.0,
+        "answer_relevancy": 0.9987751099167145
+    },
+    {
+        "question": "Is there a camera on the NeoGadget X1 and what are its specifications?",
+        "ground_truth": "Yes, the NeoGadget X1 has a Quad 108MP NeoLens camera system.",
+        "answer": "The NeoGadget X1 features a Quad 108MP NeoLens camera system.",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 0.5,
+        "answer_relevancy": 0.9372710594458747
+    },
+    {
+        "question": "What is the warranty period and the support email for the NeoGadget X1?",
+        "ground_truth": "The warranty period for the NeoGadget X1 is 24 months, and the support email is support@neogadget.com.",
+        "answer": "The warranty period for the NeoGadget X1 is 24 months. For support inquiries, you can contact support@neogadget.com.",
+        "context_precision": 0.0,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9625906396240836
+    },
+    {
+        "question": "What is the processor used in the NeoGadget X1?",
+        "ground_truth": "The NeoGadget X1 uses the NeoCore X2 Chip processor.",
+        "answer": "The processor used in the NeoGadget X1 is the NeoCore X2 Chip.",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9930580717158969
+    },
+    {
+        "question": "What should a user do if NeoVoice is not responding?",
+        "ground_truth": "If NeoVoice is not responding, the user should check their internet connection, ensure the microphone is not obstructed, and update to the latest firmware version.",
+        "answer": "If NeoVoice is not responding, you should check your internet connection, ensure the microphone is not obstructed, and update to the latest firmware version.",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 0.6666666666666666,
+        "answer_relevancy": 0.9853609197623471
+    },
+    {
+        "question": "Where is the microphone located on the NeoGadget X1?",
+        "ground_truth": "The exact location of the microphone is not specified in the provided information.",
+        "answer": "The microphone on the NeoGadget X1 is located within the device itself.",
+        "context_precision": 0.9999999999,
+        "context_recall": 0.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 1.0000000000000009
+    }
+]

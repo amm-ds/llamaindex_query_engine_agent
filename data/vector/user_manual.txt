@@ -1,0 +1,51 @@
+# NeoGadget X1 User Manual
+
+## Table of Contents
+1. Introduction
+2. Getting Started
+3. Features
+4. Troubleshooting
+5. Technical Specifications
+
+## 1. Introduction
+Welcome to the future of personal technology with your new NeoGadget X1! This cutting-edge device combines the functionality of a smartphone, tablet, and personal assistant in one sleek package.
+
+Product Name: NeoGadget X1
+Model Number: NG-X1-2024
+Firmware Version: 3.2.1
+Release Date: March 15, 2024
+
+## 2. Getting Started
+To set up your NeoGadget X1:
+1. Press and hold the power button for 3 seconds.
+2. Follow the on-screen instructions to connect to Wi-Fi.
+3. Log in with your NeoAccount or create a new one.
+4. Allow the device to download and install the latest updates.
+
+## 3. Features
+### 3.1 NeoVoice Assistant
+Activate NeoVoice by saying "Hey Neo" followed by your command.
+
+### 3.2 NeoProjekt
+Project your screen onto any flat surface by double-tapping the top of the device.
+
+### 3.3 NeoCharge
+Place your NeoGadget X1 on any Qi-compatible wireless charging pad for hassle-free charging.
+
+## 4. Troubleshooting
+### 4.1 Device Won't Turn On
+1. Ensure the battery is charged.
+2. Try a force restart by holding the power and volume down buttons for 10 seconds.
+
+### 4.2 NeoVoice Not Responding
+1. Check your internet connection.
+2. Ensure the microphone is not obstructed.
+3. Update to the latest firmware version.
+
+## 5. Technical Specifications
+- Display: 6.5" NeoRetina OLED
+- Battery: 5000mAh with NeoCharge technology
+- Processor: NeoCore X2 Chip
+- Storage: 256GB / 512GB options
+- RAM: 12GB LPDDR5
+- Camera: Quad 108MP NeoLens system

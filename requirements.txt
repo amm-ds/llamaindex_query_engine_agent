@@ -1,0 +1,4 @@
+llama-index
+llama-index-embeddings-huggingface
+sqlite-utils
+deepeval

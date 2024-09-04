@@ -1,0 +1,36 @@
+{
+    "questions": [
+      "What are the model numbers of the NeoGadget X1?",
+      "How do you activate the NeoVoice assistant?",
+      "What is the return policy for the NeoGadget X1?",
+      "Can I use the NeoProjekt feature on any surface?",
+      "What should I do if my NeoGadget X1 won't turn on?",
+      "What is the total price for the 512 GB storage version of the NeoGadget X1?",
+      "What time was the last customer interaction in the conversation history?",
+      "Is the NeoGadget X1 compatible with older NeoCharge wireless pads?",
+      "What are the available color options for the NeoGadget X1?",
+      "What's the battery capacity of the NeoGadget X1?",
+      "Is there a camera on the NeoGadget X1 and what are its specifications?",
+      "What is the warranty period and the support email for the NeoGadget X1?",
+      "What is the processor used in the NeoGadget X1?",
+      "What should a user do if NeoVoice is not responding?",
+      "Where is the microphone located on the NeoGadget X1?"
+    ],
+    "expected_answers": [
+      "The model number of the NeoGadget X1 is NG-X1-2024-256 and NG-X1-2024-512",
+      "To activate NeoVoice, say 'Hey Neo' followed by your command.",
+      "The NeoGadget X1 has a 30-day money-back guarantee return policy.",
+      "Yes, you can project your screen onto any flat surface by double-tapping the top of the device.",
+      "If the NeoGadget X1 won't turn on, ensure the battery is charged and try a force restart by holding the power and volume down buttons for 10 seconds.",
+      "The price for the 512 GB version of the NeoGadget X1 is $1099.99.",
+      "The last customer interaction in the conversation history was at 14:30:00 on July 16, 2024.",
+      "Yes, the NeoGadget X1 is compatible with any Qi-compatible wireless charging pad, including older NeoCharge models.",
+      "The NeoGadget X1 is available in Cosmic Black, Stellar Silver, and Aurora Blue.",
+      "The NeoGadget X1 has a 5000mAh battery capacity.",
+      "Yes, the NeoGadget X1 has a Quad 108MP NeoLens camera system.",
+      "The warranty period for the NeoGadget X1 is 24 months, and the support email is support@neogadget.com.",
+      "The NeoGadget X1 uses the NeoCore X2 Chip processor.",
+      "If NeoVoice is not responding, the user should check their internet connection, ensure the microphone is not obstructed, and update to the latest firmware version.",
+      "The exact location of the microphone is not specified in the provided information."
+    ]
+  }

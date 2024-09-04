@@ -1,0 +1,26 @@
+  {
+    "questions": [
+      "What is the battery capacity of the NeoGadget X1, and how does it relate to the NeoCharge feature mentioned in the manual?",
+      "Can you explain the NeoProjekt feature and list the available color options for the NeoGadget X1?",
+      "What is the return policy for the NeoGadget X1, and has any customer inquired about it in recent interactions?",
+      "How much storage does the most expensive NeoGadget X1 model have, and what is the total price for this version?",
+      "What is the process for activating NeoVoice, and has any customer reported issues with it recently?",
+      "What are the camera specifications of the NeoGadget X1, and how does the NeoProjekt feature interact with the camera?",
+      "Can you provide the support email and phone number, and mention any recent customer interactions related to technical support?",
+      "What is the processor used in the NeoGadget X1, and how does it contribute to the device's performance as mentioned in the manual?",
+      "How many storage options are available for the NeoGadget X1, and what is the price difference between the lowest and highest capacity models?",
+      "What is the warranty period for the NeoGadget X1, and are there any specific instructions in the manual about maintaining the device to ensure warranty coverage?"
+    ],
+    "expected_answers": [
+      "The NeoGadget X1 has a 5000mAh battery capacity. The manual mentions that this battery supports NeoCharge technology, which allows for wireless charging on any Qi-compatible charging pad, providing hassle-free charging for users.",
+      "The NeoProjekt feature allows users to project their screen onto any flat surface by double-tapping the top of the device. The NeoGadget X1 is available in three color options: Cosmic Black, Stellar Silver, and Aurora Blue.",
+      "The NeoGadget X1 has a 30-day money-back guarantee return policy. Based on the recent customer interactions, there are no specific inquiries about the return policy in the provided data.",
+      "The NeoGadget X1 is available with up to 512 GB of storage, which is likely the most expensive model, which is $1099.99",
+      "To activate NeoVoice, users need to say 'Hey Neo' followed by their command. According to the recent customer interactions, one customer asked how to activate NeoVoice, indicating there might have been some confusion about its usage, but no specific issues were reported.",
+      "The NeoGadget X1 features a Quad 108MP NeoLens camera system. The NeoProjekt feature allows users to project their screen, which could include camera output, onto any flat surface by double-tapping the top of the device. This combination could potentially be used for sharing photos or videos captured by the camera on a larger surface.",
+      "The support email for NeoGadget is support@neogadget.com, and the support phone number is 1-800-NEO-HELP. In recent customer interactions, there was a query about activating the NeoVoice assistant, which could be considered a technical support issue.",
+      "The NeoGadget X1 uses the NeoCore X2 Chip processor. According to the manual, this processor contributes to the device's overall performance, enabling features like the NeoVoice assistant and the NeoProjekt projection capability",
+      "The NeoGadget X1 is available in three storage options: 256GB, and 512GB. The price for the base model (256GB) is $899.99.",
+      "The warranty period for the NeoGadget X1 is 24 months (2 years)."
+    ]
+  }

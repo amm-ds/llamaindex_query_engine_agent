@@ -1,0 +1,92 @@
+[
+    {
+        "question": "What is the battery capacity of the NeoGadget X1, and how does it relate to the NeoCharge feature mentioned in the manual?",
+        "ground_truth": "The NeoGadget X1 has a 5000mAh battery capacity. The manual mentions that this battery supports NeoCharge technology, which allows for wireless charging on any Qi-compatible charging pad, providing hassle-free charging for users.",
+        "answer": "The battery capacity of the NeoGadget X1 is 5000 mAh. The NeoCharge feature mentioned in the manual enables users to conveniently charge the device by placing it on any Qi-compatible wireless charging pad. This feature provides a hassle-free charging experience for the NeoGadget X1 users.",
+        "context_precision": 0.99999999995,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9665107189619335
+    },
+    {
+        "question": "Can you explain the NeoProjekt feature and list the available color options for the NeoGadget X1?",
+        "ground_truth": "The NeoProjekt feature allows users to project their screen onto any flat surface by double-tapping the top of the device. The NeoGadget X1 is available in three color options: Cosmic Black, Stellar Silver, and Aurora Blue.",
+        "answer": "The NeoProjekt feature on the NeoGadget X1 enables users to project their screen onto any flat surface by double-tapping the top of the device. The available color options for the NeoGadget X1 include Cosmic Black, Stellar Silver, and Aurora Blue.",
+        "context_precision": 0.0,
+        "context_recall": 1.0,
+        "faithfulness": 0.4,
+        "answer_relevancy": 0.9444001871776987
+    },
+    {
+        "question": "What is the return policy for the NeoGadget X1, and has any customer inquired about it in recent interactions?",
+        "ground_truth": "The NeoGadget X1 has a 30-day money-back guarantee return policy. Based on the recent customer interactions, there are no specific inquiries about the return policy in the provided data.",
+        "answer": "The return policy for the NeoGadget X1 offers a 30-day money-back guarantee. There have been no recent customer interactions regarding inquiries about the return policy of the NeoGadget X1 in the database. If you have any specific questions or need further assistance, feel free to ask!",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.961728258837257
+    },
+    {
+        "question": "How much storage does the most expensive NeoGadget X1 model have, and what is the total price for this version?",
+        "ground_truth": "The NeoGadget X1 is available with up to 512 GB of storage, which is likely the most expensive model, which is $1099.99",
+        "answer": "The most expensive NeoGadget X1 model comes with 512GB of storage and is priced at $1099.99. If you have any more questions or need further details, feel free to ask!",
+        "context_precision": 0.9999999999,
+        "context_recall": 0.6666666666666666,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9430260279721964
+    },
+    {
+        "question": "What is the process for activating NeoVoice, and has any customer reported issues with it recently?",
+        "ground_truth": "To activate NeoVoice, users need to say 'Hey Neo' followed by their command. According to the recent customer interactions, one customer asked how to activate NeoVoice, indicating there might have been some confusion about its usage, but no specific issues were reported.",
+        "answer": "To activate the NeoVoice feature, users can simply say \"Hey Neo\" followed by their command. It is recommended to do this in a quiet environment for optimal results. Regarding recent customer interactions, there was a query about activating the NeoVoice assistant on the NeoGadget X1, with instructions provided on how to do so. No specific issues with the NeoVoice feature were reported by customers recently. If you have any more questions or need assistance, feel free to ask!",
+        "context_precision": 0.99999999995,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9120109145785028
+    },
+    {
+        "question": "What are the camera specifications of the NeoGadget X1, and how does the NeoProjekt feature interact with the camera?",
+        "ground_truth": "The NeoGadget X1 features a Quad 108MP NeoLens camera system. The NeoProjekt feature allows users to project their screen, which could include camera output, onto any flat surface by double-tapping the top of the device. This combination could potentially be used for sharing photos or videos captured by the camera on a larger surface.",
+        "answer": "The NeoGadget X1 features a Quad 108MP NeoLens system for its camera. Interestingly, the NeoProjekt feature does not have a direct interaction with the camera on the NeoGadget X1 device. If you have any more questions or need further details, feel free to ask!",
+        "context_precision": 0.9999999999,
+        "context_recall": 0.3333333333333333,
+        "faithfulness": 0.5,
+        "answer_relevancy": 0.9204054546132747
+    },
+    {
+        "question": "Can you provide the support email and phone number, and mention any recent customer interactions related to technical support?",
+        "ground_truth": "The support email for NeoGadget is support@neogadget.com, and the support phone number is 1-800-NEO-HELP. In recent customer interactions, there was a query about activating the NeoVoice assistant, which could be considered a technical support issue.",
+        "answer": "The support email for NeoGadget X1 is support@neogadget.com, and the support phone number is 1-800-NEO-HELP. Unfortunately, there was an error while trying to retrieve recent customer interactions related to technical support for the NeoGadget X1. If you have any specific questions or need further assistance, please let me know!",
+        "context_precision": 0.9999999999,
+        "context_recall": 0.6666666666666666,
+        "faithfulness": 0.6666666666666666,
+        "answer_relevancy": 0.8251651290408267
+    },
+    {
+        "question": "What is the processor used in the NeoGadget X1, and how does it contribute to the device's performance as mentioned in the manual?",
+        "ground_truth": "The NeoGadget X1 uses the NeoCore X2 Chip processor. According to the manual, this processor contributes to the device's overall performance, enabling features like the NeoVoice assistant and the NeoProjekt projection capability",
+        "answer": "The NeoGadget X1 is equipped with the NeoCore X2 Chip as its processor. This chip contributes to the device's performance by providing processing power and efficiency, enhancing the overall functionality and speed of the NeoGadget X1. If you have any more questions or need further details, feel free to ask!",
+        "context_precision": 0.99999999995,
+        "context_recall": 0.5,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9331615991266181
+    },
+    {
+        "question": "How many storage options are available for the NeoGadget X1, and what is the price difference between the lowest and highest capacity models?",
+        "ground_truth": "The NeoGadget X1 is available in three storage options: 256GB, and 512GB. The price for the base model (256GB) is $899.99.",
+        "answer": "The NeoGadget X1 is available in two storage options: 512GB and 256GB. The price difference between the lowest and highest capacity models of the NeoGadget X1 is $200. If you have any more questions or need further assistance, feel free to ask!",
+        "context_precision": 0.0,
+        "context_recall": 0.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9614309389134296
+    },
+    {
+        "question": "What is the warranty period for the NeoGadget X1, and are there any specific instructions in the manual about maintaining the device to ensure warranty coverage?",
+        "ground_truth": "The warranty period for the NeoGadget X1 is 24 months (2 years).",
+        "answer": "The warranty period for the NeoGadget X1 is 24 months. The manual contains maintenance instructions to help ensure warranty coverage for the device. If you have any more questions or need further details, feel free to ask!",
+        "context_precision": 0.9999999999,
+        "context_recall": 1.0,
+        "faithfulness": 1.0,
+        "answer_relevancy": 0.9430798589653827
+    }
+]

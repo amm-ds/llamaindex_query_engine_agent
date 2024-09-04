@@ -1,0 +1,59 @@
+{"messages":
+    [
+      {
+        "id": 5001,
+        "productId": 1001,
+        "customerId": 10042,
+        "conversationId": 15001,
+        "body": "Thank you for your help!",
+        "isIncoming": 1,
+        "status": "sent",
+        "sentDate": "2024-07-16 14:30:00",
+        "communicationType": "email"
+      },
+      {
+        "id": 5000,
+        "productId": 1001,
+        "customerId": 10042,
+        "conversationId": 15001,
+        "body": "You're welcome! Enjoy your new NeoGadget X1, and don't hesitate to reach out if you have any more questions.",
+        "isIncoming": 0,
+        "status": "sent",
+        "sentDate": "2024-07-16 14:25:00",
+        "communicationType": "email"
+      },
+      {
+        "id": 4999,
+        "productId": 1001,
+        "customerId": 10042,
+        "conversationId": 15001,
+        "body": "Great, I'll try that. One more question - can I use my old NeoCharge wireless pad with the X1?",
+        "isIncoming": 1,
+        "status": "sent",
+        "sentDate": "2024-07-16 14:20:00",
+        "communicationType": "email"
+      },
+      {
+        "id": 4998,
+        "productId": 1001,
+        "customerId": 10042,
+        "conversationId": 15001,
+        "body": "To activate NeoVoice, just say 'Hey Neo' followed by your command. Make sure you're in a quiet environment for best results.",
+        "isIncoming": 0,
+        "status": "sent",
+        "sentDate": "2024-07-16 14:15:00",
+        "communicationType": "email"
+      },
+      {
+        "id": 4997,
+        "productId": 1001,
+        "customerId": 10042,
+        "conversationId": 15001,
+        "body": "Hi, I just got my new NeoGadget X1 and I'm loving it! How do I activate the NeoVoice assistant?",
+        "isIncoming": 1,
+        "status": "sent",
+        "sentDate": "2024-07-16 14:10:00",
+        "communicationType": "email"
+      }
+    ]
+}
