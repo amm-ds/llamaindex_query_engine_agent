@@ -2,7 +2,7 @@
 
 ## 🚀 Introduction
 
-Welcome to the LlamaIndex Query Engine Agent! This project showcases a powerful and flexible framework that leverages LlamaIndex and large language models (LLMs) to create a versatile question-answering system. While our example implementation focuses on the fictional NeoGadget X1 product, the underlying architecture is designed to be easily adaptable to various domains and data sources.
+Welcome to the LlamaIndex Query Engine Agent! This project showcases a powerful and flexible framework that leverages LlamaIndex and large language models (LLMs) to create a versatile question-answering system. While this example implementation focuses on the fictional NeoGadget X1 product, the underlying architecture is designed to be easily adaptable to various domains and data sources.
 
 The agent demonstrates the capability to handle complex queries, interact with multiple data formats (including structured and unstructured data), and provide accurate, context-aware responses. The modular design allows for seamless integration of new data sources, making it an ideal starting point for building sophisticated AI-powered information retrieval systems across diverse industries and use cases.
 
@@ -81,7 +81,6 @@ This section defines the directory structure for storing various data types:
 cfg["vector_tool"] = {
     "rerank_top_n": 5,
     "content_info": "Detailed information extracted from various documents, including metadata.",
-    # ... (more configuration)
 }
 
 cfg["json_tool"] = {
@@ -179,7 +178,7 @@ For more detailed information about LlamaIndex capabilities, check out the [Llam
 
 ## 📊 Evaluation
 
-We use RAGAS for comprehensive evaluation of the agent's performance. The evaluation process is implemented in `evaluation.py` and includes the following steps:
+RAGAS framweork is implemented for comprehensive evaluation of the agent's performance. The evaluation process is implemented in `evaluation.py` and includes the following steps:
 
 1. Loading questions and expected answers from `data/questions.json` (in the example there are 'easy' and 'hard' Q&A)
 2. Processing queries through the QueryEngineAgent
@@ -290,5 +289,7 @@ The agent processes each query through the following steps:
 LlamaIndex simplifies the process of connecting large language models with external data sources, making it an ideal choice for building robust and scalable AI applications like the NeoGadget X1 information assistant.
 
 Remember, when in doubt, check the [LlamaIndex documentation](https://docs.llamaindex.ai/en/stable/) for detailed information on available features and best practices!
+
+Contributions are welcome from the developer community! If you have ideas for improvements, bug fixes, or new features, please don't hesitate to submit pull requests or open issues on this GitHub repository. Your input is valuable in making this framework even better and more versatile. Let's collaborate to push the boundaries of what's possible with LlamaIndex and AI-powered information retrieval!
 
 Happy coding! 🚀👨‍💻
